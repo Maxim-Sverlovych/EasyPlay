@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<link rel="apple-touch-icon" sizes="57x57" href="/809bace3094ed1f63a87611e13b8fdce.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/bdeab314ee65bb471be0291efad10836.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/f24794c4708588ada02a9df74cc3afaf.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/a6261b9f23c9d05b37615a022de06464.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/901dd4e1691d31a2dad7475ec9a0e0e4.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/9c04ec0b0d7c1d39c9cb63c489bfc440.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/4260da74ad21cda4c8cdaa22ee73bd88.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/f82911c493cf93fda55626431723f006.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/80728847d105d887a4d7d8582f8c8579.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/ae37c9eb1711306ce048f2d6e9e4a224.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/4fedd17cd61a278f433a8eff8d7b58f0.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/80af6495e8ce86437837d04b527b9519.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/6e94ce3a68d885a1119bf9749eb949d3.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/7de4613c18c98136ab2d6d85045ea583.png">
+	<meta name="theme-color" content="#ffffff">
+
+	<link rel="stylesheet" href="/cbee1255cd3ebc1fb96cd150b6182ef6.css">
+	<link rel="stylesheet" href="/f13384ee75f1fe6c9b91d4f20d7e83dd.css">
+	<link rel="stylesheet" href="/2f5dd27bdcebb0c675002f6e523dbd32.css">
+	<title>ЯTunes</title>
+</head>
+
+<body>
+
+	<a href="/index.html">
+		<h1 class="header"><span class="red-text">Я</span>Tunes</h1>
+	</a>
+
+	<main>
+		<section class="player">
+			<div class="player-btn player-video">Видео</div>
+
+			<div class="player-btn player-audio">Музыка</div>
+
+			<div class="player-btn player-radio">Радио</div>
+		</section>
+
+		<div class="temp">
+			<h2>
+				Медиа портал <span class="red-text">Я</span>Tunes
+			</h2>
+		</div>
+
+		<article class="player-block video">
+			<div class="container">
+				<div class="video-container">
+					<video src="/ab6a5f26f29f815e8d92ddb9df30a6e0.mp4" class="video-player" poster="/04bc9c3f45132946f56d0af28686d97e.svg"></video>
+					<nav class="video-navigation">
+						<button class="video-button video-button__play fa fa-play"></button>
+						<button class="video-button video-button__stop fa fa-stop"></button>
+						<p class="video-time video-time__passed">00:00</p>
+						<input type="range" class="video-progress" min="0" max="100" step="0.1" value="0">
+						<p class="video-time video-time__total">00:00</p>
+					</nav>
+				</div>
+			</div>
+		</article>
+
+		<article class="player-block audio">
+			<div class="container">
+				<div class="audio-container">
+					<div class="audio-cover">
+						<img class="audio-img" src="/c0cd835641996df6334317863524bf5f.jpg" alt="обложка">
+					</div>
+					<h3 class="audio-header">Крути пластинку</h3>
+					<audio class="audio-player" src="/fc2bd77121b6b59a52ae6f2dde8a7dfe.mp3"></audio>
+				</div>
+			</div>
+			<footer class="footer-fix audio-footer">
+				<nav class="audio-navigation">
+					<div class="audio-btns">
+						<button class="audio-button audio-button__prev fa fa-step-backward"></button>
+						<button class="audio-button audio-button__play fa fa-play"></button>
+						<button class="audio-button audio-button__next fa fa-step-forward"></button>
+					</div>
+					<span class="audio-time audio-time__passed">00:00</span>
+					<div class="audio-progress">
+						<div class="audio-progress__timing"></div>
+					</div>
+					<span class="audio-time audio-time__total">00:00</span>
+				</nav>
+			</footer>
+		</article>
+
+
+		<article class="player-block radio">
+			<div class="container">
+				<div class="radio-container">
+					<div class="radio-player">
+						<div class="radio-cover">
+							<img class="radio-cover__img" src="/dbfd811c18b066f1f3e8bcc6d6b18e32.jpg" alt="обложка">
+						</div>
+						<h3 class="radio-header__big">Выбери радиостанцию</h3>
+					</div>
+					<form class="radio-navigation">
+						<h2 class="radio-header">Другие радиостанции</h2>
+						<ul class="radio-list">
+							<li class="radio-item">
+								<label>
+									<div class="radio-check">
+										<img class="radio-img" src="/8e3d8fc1c62ce0830beb239d4b1f270e.png" alt="обложка">
+									</div>
+									<input class="radio-btn" type="radio" id="RTLGroove" name="radioStantion" data-radio-stantion="http://shoutcast.rtl.it:3040/">
+									<span class="radio-name">RTL Groove</span>
+								</label>
+							</li>
+
+							<li class="radio-item">
+								<label>
+									<div class="radio-check">
+										<img class="radio-img" src="/7298bb1a458698527fb0d103213e4166.png" alt="обложка">
+									</div>
+									<input class="radio-btn" type="radio" id="energy" name="radioStantion" data-radio-stantion="http://ic4.101.ru:8000/region_energy_161">
+									<span class="radio-name">Energy</span>
+								</label>
+							</li>
+
+							<li class="radio-item">
+								<label>
+									<div class="radio-check">
+										<img class="radio-img" src="/8cdf37afc2f7f03012bb2e480e193f11.jpg" alt="обложка">
+									</div>
+									<input class="radio-btn" type="radio" id="recordRus" name="radioStantion" data-radio-stantion="http://air.radiorecord.ru:8102/rus_320">
+									<span class="radio-name">Record Rus</span>
+								</label>
+							</li>
+
+							<li class="radio-item">
+								<label>
+									<div class="radio-check">
+										<img class="radio-img" src="/8ad79ef24cb6d5f172a4a1b09793ad25.jpg" alt="обложка">
+									</div>
+									<input class="radio-btn" type="radio" id="slowRadio" name="radioStantion" data-radio-stantion="http://air.radiorecord.ru:8102/mdl_320">
+									<span class="radio-name">Медляк FM</span>
+								</label>
+							</li>
+
+							<li class="radio-item">
+								<label>
+									<div class="radio-check">
+										<img class="radio-img" src="/27076bb5692bdfbcdde085a2fc53ff0c.png" alt="обложка">
+									</div>
+									<input class="radio-btn" type="radio" id="roadRadio" name="radioStantion" data-radio-stantion="http://dorognoe.hostingradio.ru:8000/dorognoe">
+									<span class="radio-name">Дорожное Радио</span>
+								</label>
+							</li>
+
+							<li class="radio-item">
+								<label>
+									<div class="radio-check">
+										<img class="radio-img" src="/6f98e04bce5fa85f1eb44a1cad386394.jpg" alt="обложка">
+									</div>
+									<input class="radio-btn" type="radio" id="90years" name="radioStantion" data-radio-stantion="http://online.radiorecord.ru:8102/sd90_320">
+									<span class="radio-name">90-e</span>
+								</label>
+							</li>
+
+						</ul>
+					</form>
+				</div>
+			</div>
+			<footer class="footer-fix radio-footer">
+				<button class="radio-stop fa fa-play"></button>
+			</footer>
+		</article>
+	</main>
+
+
+</body>
+
+<script src="/a7b9138fe747bd97d1880c78a6e1fada.js" type="module"></script>
+
+</html>
