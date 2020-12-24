@@ -1,5 +1,4 @@
 const VideoPlayerInit = () => {
-
     const videoPlayer = document.querySelector('.video-player')
     const videoButtonPlay = document.querySelector('.video-button__play')
     const videoButtonStop = document.querySelector('.video-button__stop')
