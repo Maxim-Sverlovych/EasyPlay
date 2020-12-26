@@ -1,25 +1,25 @@
-const MusicPlayerInit = () => {
-    const audio = document.querySelector('.audio')
-    const audioImg  = audio.querySelector('.audio-img')
-    const audioHeader = audio.querySelector('.audio-header')
-    const audioPlayer = audio.querySelector('.audio-player')
-    const audioNavigation = audio.querySelector('.audio-navigation')
-    const audioButtonPlay = audio.querySelector('.audio-button__play')
-    const audioProgress = audio.querySelector('.audio-progress')
-    const audioProgressTiming = audio.querySelector('.audio-progress__timing')
-    const audioTimePassed = audio.querySelector('.audio-time__passed')
-    const audioTimeTotal = audio.querySelector('.audio-time__total')
+const audio = document.querySelector('.audio')
+const audioImg  = audio.querySelector('.audio-img')
+const audioHeader = audio.querySelector('.audio-header')
+const audioPlayer = audio.querySelector('.audio-player')
+const audioNavigation = audio.querySelector('.audio-navigation')
+const audioButtonPlay = audio.querySelector('.audio-button__play')
+const audioProgress = audio.querySelector('.audio-progress')
+const audioProgressTiming = audio.querySelector('.audio-progress__timing')
+const audioTimePassed = audio.querySelector('.audio-time__passed')
+const audioTimeTotal = audio.querySelector('.audio-time__total')
 
+const MusicPlayerInit = () => {
 
     const playList = ['flow', 'hello', 'speed', 'Dan Balan']
-    let trackIndex = 0
+    let trackIndex = Math.floor(Math.random())
 
     const loadTrack = () => {
         const isPlayed = audioPlayer.paused
         const track = playList[trackIndex]
 
-        audioImg.src = `./audio/${track}.jpg`
-        audioPlayer.src = `./audio/${track}.mp3`
+        audioImg.src = `./src/audio/${track}.jpg`
+        audioPlayer.src = `./src/audio/${track}.mp3`
         audioHeader.textContent = track.toUpperCase()
 
         isPlayed ? audioPlayer.pause() : audioPlayer.play()
@@ -45,6 +45,7 @@ const MusicPlayerInit = () => {
             audioButtonPlay.classList.toggle('fa-pause')
 
             audioPlayer.paused ? audioPlayer.play() : audioPlayer.pause()
+
             const track = playList[trackIndex]
             audioHeader.textContent = track.toUpperCase()
         }

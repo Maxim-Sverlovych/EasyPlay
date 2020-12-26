@@ -1,13 +1,13 @@
+const radio = document.querySelector('.radio')
+const radioImg = radio.querySelector('.radio-cover__img')
+const radioNavigation = radio.querySelector('.radio-navigation')
+const radioHeaderBig = radio.querySelector('.radio-header__big')
+const radioItem = radio.querySelectorAll('.radio-item')
+const radioStop = radio.querySelector('.radio-stop')
+const radioVolume = radio.querySelector('.radio-volume')
+
 const RadioPlayerInit = () => {
-    const radio = document.querySelector('.radio')
-    const radioImg = radio.querySelector('.radio-cover__img')
-    const radioNavigation = radio.querySelector('.radio-navigation')
-    const radioHeaderBig = radio.querySelector('.radio-header__big')
-    const radioItem = radio.querySelectorAll('.radio-item')
-    const radioStop = radio.querySelector('.radio-stop')
-
     radioStop.disabled = true
-
     const audio = new Audio()
     audio.type = 'audio/aac'
 
@@ -55,6 +55,17 @@ const RadioPlayerInit = () => {
         audio.paused ? audio.play() : audio.pause()
         changeIcon()
     })
+
+    radioVolume.addEventListener('input', () => {
+        audio.volume = radioVolume.value / 100
+    })
+
+    radioVolume.value = audio.volume * 100
+
+    RadioPlayerInit.stop = () => {
+        audio.pause()
+        changeIcon()
+    }
 }
 
 export default RadioPlayerInit

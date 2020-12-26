@@ -6,6 +6,108 @@
   <component name="ChangeListManager">
     <list default="true" id="b4ad69af-c17a-4607-bf1e-9e6caf9d97eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/Dan Balan.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/Dan Balan.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/dan balan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/dan balan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/flow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/flow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/flow.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/flow.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/hello.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/hello.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/hello.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/hello.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/speed.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/speed.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/speed.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio/speed.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/90.ad386394.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/90.ad386394.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Energy.213e4166.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/Energy.213e4166.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/RTLGroove.4b1f270e.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/RTLGroove.4b1f270e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Record.0e193f11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/Record.0e193f11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/android-icon-192x192.e9e4a224.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/android-icon-192x192.e9e4a224.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-114x114.c9a0e0e4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-114x114.c9a0e0e4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-120x120.89bfc440.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-120x120.89bfc440.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-144x144.ee73bd88.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-144x144.ee73bd88.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-152x152.1723f006.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-152x152.1723f006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-180x180.2f8c8579.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-180x180.2f8c8579.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-57x57.13b8fdce.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-57x57.13b8fdce.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-60x60.fad10836.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-60x60.fad10836.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-72x72.4cc3afaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-72x72.4cc3afaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-icon-76x76.2de06464.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/apple-icon-76x76.2de06464.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/dorojnoe.fc53ff0c.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/dorojnoe.fc53ff0c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon-16x16.9eb949d3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/favicon-16x16.9eb949d3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon-32x32.8d7b58f0.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/favicon-32x32.8d7b58f0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon-96x96.527b9519.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/favicon-96x96.527b9519.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/font-awesome.min.0d7e83dd.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/font-awesome.min.0d7e83dd.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/font-awesome.min.0d7e83dd.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/font-awesome.min.0d7e83dd.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/font-awesome.min.0d7e83dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/font-awesome.min.0d7e83dd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/hello.3524bf5f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/hello.3524bf5f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/hello.de8a7dfe.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/hello.de8a7dfe.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/ms-icon-144x144.045ea583.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/ms-icon-144x144.045ea583.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.b6182ef6.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/normalize.b6182ef6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.b6182ef6.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/normalize.b6182ef6.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.b6182ef6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/normalize.b6182ef6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.b6182ef6.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/normalize.b6182ef6.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/play.8686d97e.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/play.8686d97e.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/rocket_launching.df30a6e0.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/rocket_launching.df30a6e0.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.a6e1fada.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/script.a6e1fada.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.a6e1fada.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/script.a6e1fada.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/slowRadio.9793ad25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/slowRadio.9793ad25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/start.d6b18e32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/start.d6b18e32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.min.523dbd32.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/style.min.523dbd32.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.min.523dbd32.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/style.min.523dbd32.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.min.523dbd32.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/style.min.523dbd32.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.min.523dbd32.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/style.min.523dbd32.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/android-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/android-icon-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-icon-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/android-icon-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-icon-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/android-icon-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/android-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-icon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/android-icon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/favicon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/ms-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/ms-icon-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/ms-icon-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon/ms-icon-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/play-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/play-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/Energy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/Energy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/NasheRadio.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/NasheRadio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/RTLGroove.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/RTLGroove.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/Record.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/Record.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/dorojnoe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/dorojnoe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/slowRadio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/slowRadio.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio/start.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio/start.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/musicPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/musicPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/radioPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/radioPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/videoPlayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/scss/_audio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/scss/_audio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/scss/_radio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/scss/_radio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/scss/_range.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/scss/_range.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/scss/_video.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/video/play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/rocket_launching.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/video/rocket_launching.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +137,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/package.json" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/package.json" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Max\www\EasyPlay" />
+      <recent name="D:\Max\www\EasyPlay\src" />
       <recent name="D:\Max\www\EasyPlay\audio" />
       <recent name="D:\Max\www\EasyPlay\radio" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/scripts/script.js" working-dir="$PROJECT_DIR$/scripts">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/scripts/script.js" working-dir="$PROJECT_DIR$/src/scripts">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -75,6 +179,9 @@
       <workItem from="1608818406954" duration="8408000" />
       <workItem from="1608830157890" duration="2549000" />
       <workItem from="1608843263266" duration="6645000" />
+      <workItem from="1608891818932" duration="8121000" />
+      <workItem from="1608926409350" duration="3831000" />
+      <workItem from="1608937422071" duration="4309000" />
     </task>
     <servers />
   </component>

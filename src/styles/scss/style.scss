@@ -104,12 +104,6 @@ main {
     }
   }
 
-  &-video.active {
-    border-top: 2px solid #F51E38;
-    border-right: 2px solid #F51E38;
-    border-bottom: 2px solid transparent;
-  }
-
   &-audio.active {
     border-top: 2px solid #F51E38;
     border-right: 2px solid #F51E38;
@@ -156,17 +150,6 @@ main {
 @import 'radio';
 
 @import 'audio';
-
-@import "video";
-
-
-.video {
-  display: none;
-
-  &.active {
-    display: flex;
-  }
-}
 
 .audio {
   display: none;
